@@ -7,8 +7,3 @@ Link to other repositories :
 [Buldr Frontend]()
 
 [Buldr Backend]()
-
-[Buldr Paraphraser REST API]()
-
-[Buldr Drone Plugin API]()
-
